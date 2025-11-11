@@ -1,0 +1,1 @@
+& "C:\Users\Ignacio Faria\AppData\Local\Programs\Python\Python312\python.exe" --version
